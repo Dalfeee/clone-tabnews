@@ -1,0 +1,24 @@
+{
+  "name": "clone-tabnews",
+  "version": "1.0.0",
+  "description": "implementação do https://tabnews.com.br para o https://curso.dev                   > Estudando programação",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dalfeee/clone-tabnews.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Dalfeee/clone-tabnews/issues"
+  },
+  "homepage": "https://github.com/Dalfeee/clone-tabnews#readme",
+  "dependencies": {
+    "next": "^15.5.4",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
